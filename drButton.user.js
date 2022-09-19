@@ -3,7 +3,7 @@
 // @namespace   Empty Unicode Character to Clipboard
 // @match       https://www.documentingreality.com/forum/newthread.php?do=newthread*
 // @match       https://www.documentingreality.com/forum/newreply.php?do=postreply*
-// @match       https://www.documentingreality.com/forum/f*/*/
+// @match       https://www.documentingreality.com/forum/f*/*/*
 // @grant       none
 // @version     1.0
 // @author      v1r
