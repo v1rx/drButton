@@ -1,2 +1,2 @@
-# drButton
-Documenting Reality - Adds a button that adds an invisible character to the editor.
+# drHUD
+Adds several new features to the DR website.
