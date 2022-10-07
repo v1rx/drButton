@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        drButtonDEV
-// @namespace   Empty Unicode Character to Clipboard
+// @name        DR Overlay
+// @namespace   Adds several new features to the vanilla DR site.
 // @match       https://www.documentingreality.com/forum/*
 // @grant       none
-// @version     1.0.4
+// @version     1.0.5
 // @author      v1r
-// @description 10/6/2022, 8:30:00 PM
+// @description 10/7/2022, 2:15:00 PM
 // ==/UserScript==
 
 document.querySelectorAll('font[color]').forEach((element) =>
